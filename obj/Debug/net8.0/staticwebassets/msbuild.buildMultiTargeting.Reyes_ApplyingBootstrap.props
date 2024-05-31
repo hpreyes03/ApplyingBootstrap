@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Reyes_ApplyingBootstrap.props" />
+</Project>

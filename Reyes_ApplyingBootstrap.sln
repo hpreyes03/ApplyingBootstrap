@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reyes_ApplyingBootstrap", "Reyes_ApplyingBootstrap.csproj", "{B941C14B-4C44-4564-9166-6A0CC3EA17DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B941C14B-4C44-4564-9166-6A0CC3EA17DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B941C14B-4C44-4564-9166-6A0CC3EA17DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B941C14B-4C44-4564-9166-6A0CC3EA17DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B941C14B-4C44-4564-9166-6A0CC3EA17DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B30F2E1-2601-446E-81A2-E4AFBCBB7CB1}
+	EndGlobalSection
+EndGlobal

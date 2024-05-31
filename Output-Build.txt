@@ -1,0 +1,6 @@
+﻿Build started at 11:56 am...
+1>------ Build started: Project: Reyes_ApplyingBootstrap, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Reyes_ApplyingBootstrap -> C:\Users\VGD-A1\Downloads\Reyes_Haddriene_Bootstrap\Reyes_ApplyingBootstrap\bin\Debug\net8.0\Reyes_ApplyingBootstrap.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 11:56 am and took 08.853 seconds ==========
